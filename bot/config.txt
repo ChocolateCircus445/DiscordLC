@@ -1,0 +1,5 @@
+# Must be formatted like: key=value
+# NO SPACES!
+
+token=INSERT BOT TOKEN HERE
+directory=INSERT PATH TO TEXT FILE HERE
