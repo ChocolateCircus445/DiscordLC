@@ -34,6 +34,14 @@ Replace "INSERT BOT TOKEN HERE" with your token.
 
 Replace "INSERT PATH TO TEXT FILE HERE" with the path to your message file.
 
+In the bot settings tab, click "OAuth2"
+
+In "Scopes," click "bot," and in "Permissions," click "Send Messages" and "Read Message History."
+
+Copy the link above the Permissions box and paste it into your browser.
+
+Select the server you want to add your bot to.
+
 Run `bot.py`
 
 * You might have to type `python3 ` (note the space) into a Terminal window and then drag `bot.py` into the window if you're on a Mac.
